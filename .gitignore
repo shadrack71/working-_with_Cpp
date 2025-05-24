@@ -1,2 +1,8 @@
 C++_projects.code-workspace
-./.vscode
+.vscode/*
+*vs*
+*Debug*
+*.exe
+*.pdb
+*.obj
+*.ilk
